@@ -43,6 +43,7 @@ button {
 body {
     font-family: "Montesserat";
     color: var(--text-primary-color);
+    
 }
 
 .section-title h2 {
