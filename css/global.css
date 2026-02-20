@@ -21,7 +21,7 @@ Cores de textos*/
     --text-tertiary-color: #9747ff;
 
     --title-weight: 700;
-    --text-weigth: 400;
+    --text-weight: 400;
     --menu-text-weight: 500;
 }
 
@@ -41,7 +41,7 @@ button {
 }
 
 body {
-    font-family: "Montesserat";
+    font-family: "Montserrat";
     color: var(--text-primary-color);
     
 }

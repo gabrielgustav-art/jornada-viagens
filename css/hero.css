@@ -11,7 +11,7 @@
 
     padding: 88px 24px;
     margin: 0;
-    font-weight: var(--text-weigth);
+    font-weight: var(--text-weight);
     font-size: 20px;
     text-align: center;
     line-height: 1.5;
@@ -33,7 +33,7 @@
 
         padding: 88px 60px;
         margin: 0;
-        font-weight: var(--text-weigth);
+        font-weight: var(--text-weight);
         font-size: 32px;
         text-align: center;
         line-height: 1.5;
@@ -57,7 +57,7 @@
 
         padding: 88px 120px;
         margin: 0;
-        font-weight: var(--text-weigth);
+        font-weight: var(--text-weight);
         font-size: 32px;
         text-align: center;
         line-height: 1.5;
@@ -82,7 +82,7 @@
 
         padding: 88px 160px;
         margin: 0;
-        font-weight: var(--text-weigth);
+        font-weight: var(--text-weight);
         font-size: 32px;
         text-align: center;
         line-height: 1.5;

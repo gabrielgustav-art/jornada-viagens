@@ -29,18 +29,18 @@
 
 .card header p {
     font-size: 20px;
-    font-weight: var(--text-weigth);
+    font-weight: var(--text-weight);
 }
 
 .card header h3 {
     font-size: 40px;
-    font-weight: var(--title-weigth);
+    font-weight: var(--title-weight);
     margin: 8px 0 0;
 }
 
 .card header span {
     font-size: 32px;
-    font-weight: var(--title-weigth);
+    font-weight: var(--title-weight);
     display: inline-block;
     margin-top: 24px;
 }
@@ -79,28 +79,26 @@
     .card {
         width: 420px;
         height: 308px;
-        
     }
-}
+
     .card header h3 {
         font-size: 48px;
-
     }
 
     .card header span {
         font-size: 40px;
-
     }
+}
 
-    @media screen and (min-width: 1440px) {
+@media screen and (min-width: 1440px) {
     .card{
         width: 488px;
     }
-    }
+}
 
-    @media screen and (min-width: 1812px) {
-        .card{
+@media screen and (min-width: 1812px) {
+    .card{
         width: 320px;
         height: 308px;
-        }
     }
+}
