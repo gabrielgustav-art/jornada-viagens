@@ -26,24 +26,19 @@ Cores de textos*/
 }
 
 /*CSS RESET*/
-body,
-img,
-h1,
-fieldset,
-legend,
-label,
-input,
-textarea,
-button {
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
+
 
 body {
     font-family: "Montserrat";
     color: var(--text-primary-color);
-    
+
 }
 
 .section-title h2 {
