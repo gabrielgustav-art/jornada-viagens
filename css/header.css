@@ -20,7 +20,7 @@ header {
     display: block;
 }
 
-.img-desktop {
+.logo .img-desktop {
     display: none;
 }
 
@@ -100,11 +100,11 @@ nav {
         height: 64px;
     }
 
-    .img-desktop {
+    .logo .img-desktop {
         display: block;
     }
 
-    .img-mobile {
+    .logo .img-mobile {
         display: none;
     }
 
