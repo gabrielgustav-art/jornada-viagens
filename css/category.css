@@ -1,3 +1,7 @@
+.category{
+    margin-bottom: 80px;
+}
+
 .category .section-title {
     width: 312px;
     margin: 0 auto;
@@ -43,9 +47,9 @@
         width: 100%;
     }
 
-    /* .category .section-title h2 {
+    .category .section-title h2 {
         white-space: nowrap;
-    } */
+    }
 }
 
 .category-cards {
@@ -61,8 +65,8 @@
     }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1350px) {
     .category-cards .card {
-        width: 280px;
+        width: 480px;
     }
 }
